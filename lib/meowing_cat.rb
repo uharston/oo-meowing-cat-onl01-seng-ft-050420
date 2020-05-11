@@ -8,4 +8,3 @@ class Cat
   end
 
 end
-  
